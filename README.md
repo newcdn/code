@@ -3,7 +3,7 @@
 
 ## 调用地址
 * js：
-```<script src="https://cdn.jsdelivr.net/gh/newcdn/code/js/xxx.js"></script>```
+```<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/xxx.js"></script>```
 * css：
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/xxx.css">```
 ----
