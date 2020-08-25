@@ -3,9 +3,9 @@
 
 ## 调用地址
 * js：
-```<script src="https://cdn.jsdelivr.net/gh/newcdn/ui/js/dianjiyuanquan.js"></script>```
+```<script src="https://cdn.jsdelivr.net/gh/newcdn/code/js/xxx.js"></script>```
 * css：
-```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/ui/css/snow.css">```
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/xxx.css">```
 ----
 
 ## 文件外传请先告知作者
