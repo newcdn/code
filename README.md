@@ -9,7 +9,7 @@
 ----
 ----
 
-## 防止死循环文件，能有效减少网站图片死循环导致CPU飙升的现象
+#### 1、防止死循环文件，能有效减少网站图片死循环导致CPU飙升的现象
 * 方法：
 在footer文件添加以下代码
 ``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/fzsxh.js"></script>```
