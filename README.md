@@ -2,8 +2,10 @@
 # 说明文档
 
 ## 调用地址
-js：```<script src="https://cdn.jsdelivr.net/gh/newcdn/ui/js/dianjiyuanquan.js"></script>```
-css：```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/ui/css/snow.css">```
+* js：
+```<script src="https://cdn.jsdelivr.net/gh/newcdn/ui/js/dianjiyuanquan.js"></script>```
+* css：
+```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/ui/css/snow.css">```
 ----
 
 ## 文件外传请先告知作者
