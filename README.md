@@ -1,14 +1,16 @@
-# code
 # 说明文档
 
-## 调用地址
+## 通用调用地址
 * js：
 ```<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/xxx.js"></script>```
 * css：
 ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/xxx.css">```
 ----
 
-## 文件外传请先告知作者
+## 防止死循环文件，能有效减少网站图片死循环导致CPU飙升的现象
+方法：
+在footer文件添加以下代码
+``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/fzsxh.js"></script>```
 
 
 ### 不会用或者失效请联系QQ80181599<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=80181599&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:80181599:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>或加群179800981<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=51603ad39bf5189e1016a8a01fb65673b576bbaad237e72ea9a0ffc42b806d28"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="搬运工" title="搬运工"></a>
