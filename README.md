@@ -27,13 +27,13 @@
 
 ## 文件列表
 
-https://cdn.jsdelivr.net/gh/cdnapi/img/
+https://cdn.jsdelivr.net/gh/newcdn/code/
 
 - - - - - - - - - - - - - - - - 
 
 ## 刷新缓存
 
-https://purge.jsdelivr.net/gh/cdnapi/img/
+https://purge.jsdelivr.net/gh/newcdn/code/
 
 - - - - - - - - - - - - - - - - 
 
