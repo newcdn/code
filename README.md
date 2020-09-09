@@ -25,7 +25,20 @@
 
 
 
+## 文件列表
 
+https://cdn.jsdelivr.net/gh/cdnapi/img/
+
+- - - - - - - - - - - - - - - - 
+
+## 刷新缓存
+
+https://purge.jsdelivr.net/gh/cdnapi/img/
+
+- - - - - - - - - - - - - - - - 
+
+
+----
 
 
 
