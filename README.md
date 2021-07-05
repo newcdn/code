@@ -18,9 +18,9 @@
 #### 2、微信或QQ打开网页提示用浏览器打开，但是不强制
 * 方法：
 * 在head下添加
-   ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxbrowser.css">```
+   ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxqztzbrowser.css">```
 * 在需要提示的页面body后添加
-``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>```  
+``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxqztzbrowser.js"></script>```  
  换行添加
  ``` HTML
 <div class="weixin-tip">
@@ -28,6 +28,22 @@
         <img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/live_weixin.png" alt="微信打开"/>
     </p>
 </div>```
+
+#### 3、微信或QQ打开网页提示用浏览器打开，但是不强制
+* 方法：
+* 在head下添加
+   ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxtzbrowser.css">```
+* 在需要提示的页面body后添加
+``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxtzbrowser.js"></script>```  
+ 换行添加
+ ``` HTML
+<div class="weixin-tip">
+    <p>
+        <img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/live_weixin.png" alt="微信打开"/>
+    </p>
+</div>```
+
+
 
 
 ### 不会用或者失效请留言
