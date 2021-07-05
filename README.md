@@ -22,6 +22,8 @@
 * 在需要提示的页面body后添加
 ``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxqztzbrowser.js"></script>```  
  换行添加
+``` <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>```  
+ 换行添加
  ``` HTML
 <div class="weixin-tip">
     <p>
@@ -29,12 +31,14 @@
     </p>
 </div>```
 
-#### 3、微信或QQ打开网页提示用浏览器打开，但是不强制
+#### 3、微信或QQ打开网页强制用浏览器打开
 * 方法：
 * 在head下添加
    ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxtzbrowser.css">```
 * 在需要提示的页面body后添加
 ``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxtzbrowser.js"></script>```  
+ 换行添加
+``` <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>```  
  换行添加
  ``` HTML
 <div class="weixin-tip">
