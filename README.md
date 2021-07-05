@@ -17,12 +17,13 @@
 
 #### 2、微信或QQ打开网页提示用浏览器打开，但是不强制
 * 方法：
-* <head>下添加
-   ``` <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxbrowser.css"> ```
-  在需要提示的页面<body>后添加
-   ```html
-   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>
-  <div id='weixin-tip-box'>
+* 在head下添加
+   ```<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxbrowser.css">```
+* 在需要提示的页面body后添加
+``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>```  
+ 换行添加
+ ``` HTML
+<div id='weixin-tip-box'>
         <div class="triangle_border_up">
             <span></span>
         </div>
@@ -34,8 +35,7 @@
                 选择"浏览器中打开"
             </p>
         </div>
-    </div> 
-   ```
+    </div>```
 
 
 ### 不会用或者失效请留言
