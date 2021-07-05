@@ -20,7 +20,7 @@
 * <head>下添加
    ``` <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/newcdn/code/css/wxbrowser.css"> ```
   在需要提示的页面<body>后添加
-   ``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>
+   ```js <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>
   <div id='weixin-tip-box'>
         <div class="triangle_border_up">
             <span></span>
