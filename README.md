@@ -23,19 +23,11 @@
 ``` <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/newcdn/code/js/wxbrowser.js"></script>```  
  换行添加
  ``` HTML
-<div id='weixin-tip-box'>
-        <div class="triangle_border_up">
-            <span></span>
-        </div>
-        <div class="weixin-tip">
-            <p>
-                请点击右上角
-            </p>
-            <p class="content">
-                选择"浏览器中打开"
-            </p>
-        </div>
-    </div>```
+<div class="weixin-tip">
+    <p>
+        <img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/live_weixin.png" alt="微信打开"/>
+    </p>
+</div>```
 
 
 ### 不会用或者失效请留言
