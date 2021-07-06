@@ -33,6 +33,7 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/live_weixin.png" alt="微信打开"/>
 </p>
+</div>
    ```
 ### 3、微信或QQ打开网页提示用浏览器打开，但是不强制
 * 方法：
