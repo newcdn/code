@@ -31,7 +31,7 @@
 ``` HTML  
 <div class="weixin-tip">
 <p>
-<img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/live_weixin.png" alt="微信打开"/>
+<img src="https://cdn.jsdelivr.net/gh/newcdn/img/wx/wx.png" alt="微信打开"/>
 </p>
 </div>
    ```
